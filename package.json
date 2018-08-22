@@ -11,9 +11,12 @@
   "dependencies": {
     "ejs": "^2.6.1"
   },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
   "scripts": {
     "start": "node practice2.js"
-
   }
 
 }
