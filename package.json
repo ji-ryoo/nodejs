@@ -10,5 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.6.1"
+  },
+  "scripts": {
+    "start": "node practice2.js",
   }
+
 }
+
+
