@@ -4,7 +4,7 @@ var fs = require('fs');
 var ejs = require('ejs');
 var url = 'http://api.moemoe.tokyo/anime/v1/master/2018/1?ogp=1';//取得するjsonファイル
 
-var hostname = 'study-nodejs-nodejstest.192.168.64.4.nip.io';
+var hostname = '192.168.64.4';
 var port = 8080;
 var server = http.createServer();//httpのサーバを作成するぞー、という関数
 
