@@ -11,9 +11,5 @@
   "dependencies": {
     "ejs": "^2.6.1",
     "package.json": "^2.0.1"
-  },
-  "engine": {
-    "node": "*",
-    "npm": "*"
   }
 }
